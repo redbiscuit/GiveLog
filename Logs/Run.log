@@ -1,0 +1,6 @@
+[2017-08-28 08:53:18] [TRACE] Trace Message!
+[2017-08-28 08:53:18] [DEBUG] Debug Message!
+[2017-08-28 08:53:18] [INFO] Info Message!
+[2017-08-28 08:53:18] [WARN] Warn Message!
+[2017-08-28 08:53:18] [ERROR] Error Message!
+[2017-08-28 08:53:18] [FATAL] Fatal Message!
